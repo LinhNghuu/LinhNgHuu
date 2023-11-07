@@ -1,6 +1,6 @@
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://www.linkedin.com/in/huu-linh-nguyen-96003a233/">Nguyen Huu Linh</a>.
+  <sub>Built with 🌟 by <a href="https://www.linkedin.com/in/huu-linh-nguyen-96003a233/">Nguyen Huu Linh</a>.
 </div>
 
 ---
