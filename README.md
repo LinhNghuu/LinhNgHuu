@@ -1,50 +1,52 @@
-
-<div align="center">
-  <sub>Built with 🌟 by <a href="https://www.linkedin.com/in/huu-linh-nguyen-96003a233/">Nguyen Huu Linh</a>.
-</div>
-
----
-
-👋 **Hello, I'm Linh!**
-
-🗺 **Languages I Speak**: Vietnamese 🇻🇳 | Japanese 🇯🇵 | English 🇬🇧
+<!-- Heading -->
+<h1 align="center">👋 Hello, I'm Linh!</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+</p>
 
 ---
 
-## 🎓 Education 🎓
+### 💻 About Me
+- **Software Developer** in Toronto, Canada
+- **Interests:** Mechatronics, Machine Learning, Data Engineering
+- **Pronouns:** He/His
 
-### Ryutsukeizai University (in Japan) 🇯🇵
-- **Duration**: 2017 - 2021
-- **Degree**: Bachelor's in Business Administration
-- **Details**: Comprehensive study of economic principles, business strategies, and financial management.
+### 🗺️ Languages
+- Vietnamese 🇻🇳
+- Japanese 🇯🇵
+- English 🇬🇧
 
-### Seneca College 🇨🇦
-- **Duration**: 2023 - 2024
-- **Program**: Computer Programming
-- **Details**: Focused on full-stack web development, including technologies like HTML, CSS, JavaScript, Node.js, and more.
+### 🎓 Education
+#### Ryutsukeizai University, Japan 🇯🇵
+- *Bachelor's in Business Administration* (2017 - 2021)
+- Focus on economic principles, business strategies, financial management
+
+#### Seneca College, Canada 🇨🇦
+- *Computer Programming* (2023 - 2024)
+- Specialization in full-stack web development (HTML, CSS, JavaScript, Node.js)
+
+### 🛠️ Skills and Technologies
+- **Languages:** C, C++, JavaScript
+- **Databases:** MongoDB, SQL, Oracle
+- **Tools:** Postman, React
+
+### 🌟 Current Endeavors
+- Working on web development projects
+- Learning Advanced JavaScript, Node.js, MongoDB
+- Open to collaboration on open-source projects
+- Seeking help in back-end development, DevOps
+- Happy to discuss web development, languages, cultures
+
+### 📫 Contact
+[Email](mailto:linh.nghuu3110@gmail.com) | [LinkedIn](https://www.linkedin.com/in/huu-linh-nguyen-96003a233/)
 
 ---
 
-## 🛠 Skills and Technologies 🛠
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourGitHubUsername&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light)
+[![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&theme=light)](https://github.com/yourGitHubUsername/github-readme-stats)
 
-- **Programming Languages**: C, C++, JavaScript
-- **Database Management**: MongoDB, SQL, Oracle
-- **API Testing**: Postman
-- **Front-end Framework**: React
-
----
-
-## 🌟 What I'm Up To 🌟
-
-- 🔭 **I’m currently working on**: Various web development projects.
-- 🌱 **I’m currently learning**: Advanced JavaScript, Node.js, and MongoDB.
-- 🤝 **I’m looking to collaborate on**: Open-source projects and educational content.
-- 🤔 **I’m looking for help with**: Back-end development and DevOps.
-- 💬 **Ask me about**: Anything related to web development, languages, or cultures!
-- 📫 **How to reach me**: [Email](mailto:linh.nghuu3110@gmail.com) | [LinkedIn](https://www.linkedin.com/in/huu-linh-nguyen-96003a233/)
-
----
-
-<div align="center">
-  <strong>Let's connect and collaborate!</strong>
-</div>
+### 🧰 Programming Languages and Technologies
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+...
