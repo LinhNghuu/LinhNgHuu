@@ -1,7 +1,7 @@
 <!-- Heading -->
 <h1 align="center">👋 Hello, I'm Linh!</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+  <img src="https://media.giphy.com/media/RbtJJPft2P7rcpbBdb/giphy.gif" width="230">
 </p>
 
 ---
